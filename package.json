@@ -1,0 +1,22 @@
+{
+  "name": "x-ui-doc",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "highlight.js": "^11.5.1",
+    "sass": "^1.52.3",
+    "vite-plugin-md": "^0.15.0",
+    "vue": "^3.2.25",
+    "vue-router": "4",
+    "xinlun-ui": "^0.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
