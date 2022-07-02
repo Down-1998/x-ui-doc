@@ -29,7 +29,7 @@ const IconWidth = computed(() => {
 })
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
  .icon {
   display: inline-block;
   width: v-bind(IconWidth);

@@ -1,6 +1,6 @@
 <script setup>
 import BaseVue from './base.vue';
-import PreviewVue from '@/components/preview.vue';
+import preview from '@/components/preview.vue';
 </script>
 <style lang="scss">
     .jumpToIcon{
@@ -29,4 +29,4 @@ code指定图标的代码
 
 <base-vue />
 
-<preview-vue compname='icon' demoname='base'/>
+<preview  compname='icon' demoname='base'/>
