@@ -9,7 +9,7 @@
   const openLoading = () => {
     Loading.show({
       text:"正在努力加载中...",
-      img:"https://mzlui.codeym.com/logo.png"
+      img:"https://down-1998.github.io/x-ui-doc/assets/logo.30f90e1c.jpg"
     })
     setTimeout(()=>{
       Loading.hide()
